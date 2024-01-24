@@ -1,1 +1,20 @@
 
+/*Comment test*/
+/*Adjust style of HTML documents style attributes*/
+/*All changes in this as a stylesheet will be overwritten by the html file that references it*/
+
+/*Set the background color of the body of an HTML file*/
+body {
+    background-color: lightblue;
+}
+
+/*Adjust the color and margin of all <h1> instances inside of any HTML file that references this as its stylesheet*/
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+p {
+    color: black;
+}
