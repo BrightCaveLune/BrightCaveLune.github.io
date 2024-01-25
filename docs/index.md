@@ -8,4 +8,4 @@ title: Personal Gitsite
 
 # Hello World
 
-[![Build Status](https://github.com/brightcavelune/brihtcavelune.github.io/actions/workflows/main/badge.svg)]
+[![Build Status](https://github.com/brightcavelune/BrightCaveLune.github.io/actions/workflows/main/badge.svg)]
