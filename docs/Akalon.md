@@ -1,5 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: page
 title: "Akalon"
-permalink: https://brightcavelune.github.io/akalon
+permalink: /akalon
+---
 
 <h1>Ex</h1>
