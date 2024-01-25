@@ -1,5 +1,5 @@
 layout: page
 title: "Akalon"
-permalink: /akalon
+permalink: https://brightcavelune.github.io/akalon
 
 <h1>Ex</h1>
