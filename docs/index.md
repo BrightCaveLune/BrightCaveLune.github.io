@@ -6,9 +6,6 @@ layout: home
 title: Personal Gitsite
 ---
 
-<head>
-    
-</head>
-<body>
-    <h1>Hello World</h1>
-</body>
+# Hello World
+
+[![Build Status](https://github.com/brightcavelune/brihtcavelune.github.io/actions/workflows/main/badge.svg)]
