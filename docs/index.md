@@ -7,5 +7,4 @@ title: Personal Gitsite
 ---
 
 # Hello World
-
-[![Build Status](https://github.com/brightcavelune/BrightCaveLune.github.io/actions/workflows/main/badge.svg)]
+This is the staging page for Brightcavelune's projects and git shenanigains.
